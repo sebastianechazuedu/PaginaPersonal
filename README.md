@@ -1,18 +1,13 @@
-﻿# Sitio Web estático
+﻿# Pagina de Presentacion 
 
 ## Descripción
 
-Como su nombre indica que los sitios web estáticos ofrecen el mismo contenido cada vez que lo visita. 
+Esto es el ejemplo de una web personal a modo de presentación que contiene unos datos básicos del creador.
 
-El explorador recupera el contenido del servidor cuando un visitante escribe la dirección URL de un sitio estático. A continuación, se interpreta el contenido recuperado para mostrarlo como un sitio atractivo en la ventana del explorador.
+## Configuración con github pages
 
-##  Características de un sitio web estático
-
-- Se utiliza principalmente para distribuir una información fija desde el servidor web al explorador que se ejecuta en un equipo cliente.
-
-- Todos los visitantes verán exactamente el mismo contenido cada vez que carguen la página.
-- Por lo general, los sitios estáticos se crean con Hyper Text Markup Language (HTML), pero no es necesario que todas las páginas HTML sean estáticas. Por ejemplo, un código JavaScript incrustado en una página HTML seguirá mostrándole como página HTML con extensión .html cuando se abra en un explorador.
-- El sitio estático es más adecuado para distribuir contenido fijo que no cambia con el tiempo o no necesita actualización frecuente.
+También está configurada con github pages para ejemplificar como se vería una web en primera instancia.
+Esto se logra desde el apartado Github pages en la pestaña de settings donde deberemos seleccionar en source la opción de master Branch y ahí quedara lista nuestra configuración.
 
 ## 🛠️ Construido con :
 
