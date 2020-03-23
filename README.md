@@ -6,8 +6,9 @@ Esto es el ejemplo de una web personal a modo de presentación que contiene unos
 
 ## Configuración con github pages
 
-También está configurada con github pages para ejemplificar como se vería una web en primera instancia.
-Esto se logra desde el apartado Github pages en la pestaña de settings donde deberemos seleccionar en source la opción de master Branch y ahí quedara lista nuestra configuración.
+- También está configurada con github pages para ejemplificar como se vería una web en primera instancia.
+- Nos dirgimos al apartado Github pages en la pestaña de settings donde deberemos seleccionar en source la opción de master Branch y ahí quedara lista nuestra configuración.
+- Un punto a tener en cuenta es que el archivo principal de ingreso a la web debe llamarse index.html
 
 ## 🛠️ Construido con :
 

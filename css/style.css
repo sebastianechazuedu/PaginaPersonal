@@ -6,7 +6,11 @@
 body {
     font: 16px Helvetica, Sans-Serif;
     line-height: 24px;
-    background-color: rgb(173, 165, 192);
+    background-color: rgb(30, 59, 221);
+}
+
+img {
+    height: 250px;
 }
 
 .clear {
